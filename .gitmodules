@@ -1,0 +1,3 @@
+[submodule "github-games"]
+	path = github-games
+	url = https://github.com/yangj/github-games.git
